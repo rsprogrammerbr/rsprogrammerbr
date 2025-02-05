@@ -56,16 +56,16 @@
 
 ## ⚡ GitHub Stats  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KsProgrammer&show_icons=true&theme=dark&title_color=0000FF&icon_color=00FFFF&text_color=ADFF2F&bg_color=0d1117" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsProgrammer&layout=compact&theme=dark&title_color=0000FF&text_color=00FFFF&bg_color=0d1117" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/rsprogrammerbr">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rsprogrammerbr&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00FF7F&text_color=87CEEB&icon_color=00FF7F"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsprogrammerbr&layout=compact&langs_count=7&bg_color=00000000&title_color=00FF7F&text_color=87CEEB"/>
+  </a>
+</div>
+
+
+
+
 
 
 <div align="center" >
