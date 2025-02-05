@@ -48,8 +48,9 @@
 ---
 
 <div align="center" >
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGloOHhiOWQ4dzRoMmYyNWxseGgwd2NiZTU0a211aDFveTQycnhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+  <img src="https://c.tenor.com/X8854xxuQ_EAAAAd/tenor.gif">
 </div>
+
 
 
 
@@ -58,10 +59,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KsProgrammer&show_icons=true&theme=dark&title_color=ff4da6&icon_color=ff4da6&text_color=ffcccc&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KsProgrammer&show_icons=true&theme=dark&title_color=0000FF&icon_color=00FFFF&text_color=ADFF2F&bg_color=0d1117" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsProgrammer&layout=compact&theme=dark&title_color=ff4da6&text_color=ffcccc&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsProgrammer&layout=compact&theme=dark&title_color=0000FF&text_color=00FFFF&bg_color=0d1117" />
     </td>
   </tr>
 </table>
