@@ -3,11 +3,10 @@
 
 
 
-🎓 **Formação**: Graduado em **Análise e Desenvolvimento de Sistemas com Pos-Gradução em Engenharia de Software com Métodos Ágeis**  
-🌱 **Tecnologias**: Explorando o mundo **Full-Stack**, com interesse especial em **desenvolvimento web** e criação de **aplicações que facilitam o dia a dia**  
-📊 **Experiência Profissional**: Analista de T.I / Cloud
-🚀 **Objetivo**: Desenvolvendo **aplicações e apps** para otimizar processos e tornar decisões mais estratégicas  
-
+🎓 **Formação**: Graduado em **Análise e Desenvolvimento de Sistemas / Pos-Gradução em Engenharia de Software com Métodos Ágeis**  
+🌱 **Explorando o mundo** **Full-Stack**, Foco em **desenvolvimento web** e criação de **aplicações que facilitam o dia a dia**  
+📊 **Experiência Profissional**: Analista de T.I / Cloud  
+🚀 **Objetivo**: Desenvolver **aplicações e apps** para otimizar processos e tornar decisões mais estratégicas  
 
 ---
 
@@ -18,8 +17,6 @@
 ---
 
 ## 🚀 Tecnologias e Ferramentas Essenciais  
-
-<img align="right" width="500" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/Imagem%201.png">
 
 
 ### 🔹 Fundamentos  
@@ -71,7 +68,7 @@
 
 
 <div align="center" >
-  <img src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/study.gif">
+  
 </div>
 
 ---
@@ -83,8 +80,8 @@
 
 <div>
   <a href="https://www.youtube.com/@FuturoEmFocoHub" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:ksprogrammerbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/karina-ara%C3%BAjo-49a2681b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rsprogrammerbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-silva-180538174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <picture align="center">
