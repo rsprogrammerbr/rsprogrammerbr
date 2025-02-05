@@ -1,13 +1,13 @@
-# ✨ Olá, sou KsProgrammer! ✨
-
-<img align="right" width="180" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/Imagem%202.png">
+# ✨ Olá, sou RsProgrammer! ✨
 
 
-🎓 **Formação**: Graduada em **Análise e Desenvolvimento de Sistemas**  
+
+
+🎓 **Formação**: Graduado em **Análise e Desenvolvimento de Sistemas com Pos-Gradução em Engenharia de Software com Métodos Ágeis**  
 🌱 **Tecnologias**: Explorando o mundo **Full-Stack**, com interesse especial em **desenvolvimento web** e criação de **aplicações que facilitam o dia a dia**  
-📊 **Experiência Profissional**: Atuação no setor financeiro, com foco em **Contas a Receber, Automação com Macros e Análise de Dados**  
-🚀 **Objetivo**: Integrar **tecnologia ao setor financeiro**, desenvolvendo **aplicações e apps** para otimizar processos e tornar decisões mais estratégicas  
-💡 **Curiosidade**: Também sou formada em **Estética e Cosmetologia**! 😄  
+📊 **Experiência Profissional**: Analista de T.I / Cloud
+🚀 **Objetivo**: Desenvolvendo **aplicações e apps** para otimizar processos e tornar decisões mais estratégicas  
+
 
 ---
 
